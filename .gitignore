@@ -97,3 +97,15 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+/unity_handmade/[Ll]ibrary/
+/unity_handmade/[Tt]emp/
+/unity_handmade/[Oo]bj/
+/unity_handmade/[Bb]uild/
+/unity_handmade/[Bb]uilds/
+/unity_handmade/[Ll]ogs/
+/unity_handmade/[Uu]ser[Ss]ettings/
+
+/python_handmade/env/
+/python_handmade/venv/
+/python_handmade/.venv/
